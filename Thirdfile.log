@@ -1,0 +1,3 @@
+# ignore "no keep *.txt" in root directory
+
+/no keep *.txt
